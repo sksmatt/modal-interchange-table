@@ -1,8 +1,8 @@
-# Jazz Modal Interchange Chart
+# Modal Interchange Table
 
 Chart that maps the modes of a given key.
 
-[View Demo](http://sksmatt.github.io/jazz-modal-interchange)
+[View Demo](http://sksmatt.github.io/modal-interchange-table)
 
 ## Credit
 
